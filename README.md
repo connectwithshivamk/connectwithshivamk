@@ -1,1 +1,1 @@
-![alt text](https://raw.githubusercontent.com/Pinuicomponent/PinUI/refs/heads/main/pinui-github.png)
+![alt text](https://github.com/connectwithshivamk/connectwithshivamk/blob/main/pinui-github-banner.png?raw=true)
